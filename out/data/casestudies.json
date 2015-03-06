@@ -1,0 +1,501 @@
+[
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-149.4936733, 64.2008]
+		},
+		"properties": {
+			"name": "AMEG",
+			"link": "ameg",
+			"type": "case_studies",
+			"category": "despair",
+			"location": "Arctic",
+			"date_established": "2010",
+			"template": "partials/casestudies/ameg.html",
+			"people": "John Nissen, Peter Wadhams, Stephen Salter, Brian Orr, Peter Carter, Sam Carana, Anthony Cook, Gary Houser, John Hughes, Graham Ennis",
+			"description_short": "AMEG is a group of determined scientists, engineers, communicators and others, dedicated firstly to establishing what is really happening to our planet (especially in the Arctic) using the best scientific evidence, and secondly to finding effective and affordable means to deal with the situation, thirdly to communicating these matters.",
+			"website": "http://www.ameg.me/",
+			"website_title": "ameg.me",
+			"media": {
+				"thumb": "ameg.jpg",
+				"video": "//www.youtube.com/embed/iSsPHytEnJM?width=560&height=315"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-124.079163, 40.8772]
+		},
+		"properties": {
+			"name": "Appropedia",
+			"link": "appropedia",
+			"type": "case_studies",
+			"category": "infrastructure",
+			"location": "California, U.S.A.",
+			"date_established": "2006",
+			"template": "partials/casestudies/appropedia.html",
+			"people": "",
+			"description_short": "Appropedia is a green living wiki for collaborative solutions in sustainability, appropriate technology and poverty reduction. It is an open site for all matters of international development and aid, encouraging the sharing of information and collaboration with others in order to lighten our ecological footprint and live rich, sustainable lives.",
+			"website": "http://www.appropedia.org/",
+			"website_title": "appropedia.org",
+			"media": {
+				"thumb": "appropedia.jpg",
+				"video": "//www.youtube.com/embed/iSsPHytEnJM"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-14.235004, -51.925]
+		},
+		"properties": {
+			"name": "BITNATION",
+			"link": "bitnation",
+			"type": "case_studies",
+			"category": "despair",
+			"location": "",
+			"date_established": "2010",
+			"template": "partials/casestudies/bitnation.html",
+			"people": "Susanne Tarkowski Templehof, Ty Cabaya, Abhimanyu Dayal",
+			"description_short": "BITNATION provides a full range of services traditionally offered by governments. Among these are: a cryptographically secure ID system, blockchain based dispute resolution, marriage and divorce, land registry, education, insurance, security, diplomacy and more, through a fully distributed platform.",
+			"website": "http://www.bitnation.co/",
+			"website_title": "bitnation.co",
+			"media": {
+				"thumb": "bitnation.jpg",
+				"video": "//www.youtube.com/embed/8Zp9LvrEzQY"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-83.1181463, 42.4318]
+		},
+		"properties": {
+			"name": "Detroit Water Brigade",
+			"link": "detroit-water-brigade",
+			"type": "case_studies",
+			"category": "humanitarian",
+			"location": "Detroit, Michigan, U.S.A.",
+			"date_established": "2014",
+			"template": "partials/casestudies/detroit-water-brigade.html",
+			"people": "DeMeeko Williams, Danny McGlashing, Justin Wedes, Makita Taylor, Rodney Deas, Shamayim Harris, Mike Turner, Beulah Walker",
+			"description_short": "Detroit Water Brigade is a volunteer-led alliance of compassionate citizens of Detroit and their international allies working to bring emergency relief to families facing water shut offs.",
+			"website": "http://detroitwaterbrigade.org/",
+			"website_title": "detroitwaterbrigade.org",
+			"media": {
+				"thumb": "detroit_water_brigade.jpg",
+				"video": "//www.youtube.com/embed/2vzwk2K7mCI"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-0.020588, 51.5013]
+		},
+		"properties": {
+			"name": "Ethereum",
+			"link": "ethereum",
+			"type": "case_studies",
+			"category": "infrastructure",
+			"location": "",
+			"date_established": "2014",
+			"template": "partials/casestudies/ethereum.html",
+			"people": "Vitalik Buterin",
+			"description_short": "Ethereum is a platform and a programming language that makes it possible for any developer to build and publish next-generation distributed applications.",
+			"website": "//ethereum.org",
+			"website_title": "ethereum.org",
+			"media": {
+				"thumb": "ethereum.jpg",
+				"video": "//www.youtube.com/embed/Clw-qf1sUZg"
+			}
+		}
+	},
+	{
+		"properties": {
+			"name": "Extinction Symbol",
+			"link": "extinction-symbol",
+			"type": "case_studies",
+			"category": "finite",
+			"location": "",
+			"date_established": "",
+			"template": "partials/casestudies/extinction-symbol.html",
+			"people": "Anonymous",
+			"description_short": "The Extinction Symbol asks you to create or replicate the symbol wherever you can. The symbol represents extinction. The circle signifies the planet, while the hourglass inside serves as a warning that time is rapidly running out for many species.",
+			"website": "//extinctionsymbol.info",
+			"website_title": "extinctionsymbol.info",
+			"media": {
+				"thumb": "extinction_symbol.jpg",
+				"video": ""
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [2.36654, 48.8256]
+		},		
+		"properties": {
+			"name": "Geeks Without Bounds",
+			"link": "geeks-without-bounds",
+			"type": "case_studies",
+			"category": "humanitarian",
+			"location": "Paris, France",
+			"date_established": "2010",
+			"template": "partials/casestudies/geeks-without-bounds.html",
+			"people": "Willow Brugh, Lindsay Oliver, Lisha Sterling",
+			"description_short": "Geeks Without Bounds is an accelerator for humanitarian projects.",
+			"website": "http://gwob.org/",
+			"website_title": "gwob.org",
+			"media": {
+				"thumb": "gwob.jpg",
+				"video": "//www.youtube.com/embed/Ny6wq3A6U_I"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-0.1324844, 51.5059]
+		},
+		"properties": {
+			"name": "Language Extinction Risk",
+			"link": "global-distribution",
+			"type": "case_studies",
+			"category": "finite",
+			"location": "London",
+			"date_established": "",
+			"template": "partials/casestudies/global-distribution.html",
+			"people": "Tatsuya Amano, Brody Sandel, Heidi Eager, Edouard Bulteau, Jens-Christian Svenning, Bo Dalsgaard, Carsten Rahbek, Richard G. Davies and William J. Sutherland",
+			"description_short": "Many of the world's languages face serious risk of extinction. Efforts to prevent this cultural loss are severely constrained by a poor understanding of the geographical patterns and drivers of extinction risk.",
+			"website": "http://rspb.royalsocietypublishing.org/content/281/1793/20141574.full.pdf",
+			"website_title": "Language Extinction Risk",
+			"media": {
+				"thumb": "language_extinction_risk.jpg",
+				"video": ""
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-0.093243, 51.5133]
+		},
+		"properties": {
+			"name": "hack4good",
+			"link": "hack4good",
+			"type": "case_studies",
+			"category": "humanitarian",
+			"location": "London",
+			"date_established": "",
+			"template": "partials/casestudies/hack4good.html",
+			"people": "",
+			"description_short": "Geeklist #hack4good unites the world's leading minds to build solutions to humanity's greatest problems.",
+			"website": "http://hack4good.io/",
+			"website_title": "Hack4Good.io",
+			"media": {
+				"thumb": "hack4good.jpg",
+				"video": "//www.youtube.com/embed/1KmTvL1G7P8"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [13.420202, 52.513]
+		},
+		"properties": {
+			"name": "Hacker Global Space Program",
+			"link": "hacker-global-space-program",
+			"type": "case_studies",
+			"category": "infrastructure",
+			"location": "Berlin, Germany",
+			"date_established": "2011",
+			"template": "partials/casestudies/hacker-global-space-program.html",
+			"people": "",
+			"description_short": "The aim of the Hackerspace Global Space Program is to coordinate between hackerspaces to enhance cooperation and reduce reinvention of the wheel.",
+			"website": "http://hackerspaces.org/wiki/Hackerspaces_Global_Space_Program",
+			"website_title": "More on hackerspaces.org",
+			"media": {
+				"thumb": "hackerspaces.jpg",
+				"video": "//www.youtube.com/embed/9VFIBsTm3qo"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-0.1277583, 51.5073509]
+		},
+		"properties": {
+			"name": "Hexayurt Project",
+			"link": "hexayurt",
+			"type": "case_studies",
+			"category": "humanitarian",
+			"location": "London",
+			"date_established": "2002",
+			"template": "partials/casestudies/hexayurt.html",
+			"people": "Vinay Gupta",
+			"description_short": "Free Hardware housing for the world.",
+			"website": "http://hexayurt.com/",
+			"website_title": "hexayurt.com",
+			"media": {
+				"thumb": "hexayurt.jpg",
+				"video": "//www.youtube.com/embed/9CTCrWNYGTE"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-1.8178384, 52.5511]
+		},
+		"properties": {
+			"name": "Humanitarian OSM Team",
+			"link": "humanitarian-osm-team",
+			"type": "case_studies",
+			"category": "humanitarian",
+			"location": "Birmingham, U.K",
+			"date_established": "",
+			"template": "partials/casestudies/humanitarian-osm-team.html",
+			"people": "",
+			"description_short": "The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.",
+			"website": "http://hot.openstreetmap.org/",
+			"website_title": "hot.openstreetmap.org",
+			"media": {
+				"thumb": "hot_osm.jpg",
+				"video": "//www.youtube.com/embed/iUKWBrAiGS8"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [38.8462236, -77.306]
+		},
+		"properties": {
+			"name": "OpenBazaar",
+			"link": "open-bazaar",
+			"type": "case_studies",
+			"category": "infrastructure",
+			"location": "Washington, U.S.A.",
+			"date_established": "2014",
+			"template": "partials/casestudies/open-bazaar.html",
+			"people": "Brian Hoffman, Sam Patterson, Braden Glasgow, Washington Sanchez, Delain Markos, Jonas Nick, Dionysis Zindros, George Chatzisofroniou, Angel Leon",
+			"description_short": "OpenBazaar is an open source project to create a decentralized network for commerce online that has no fees and cannot be censored.",
+			"website": "https://openbazaar.org/",
+			"website_title": "openbazaar.org",
+			"media": {
+				"thumb": "open_bazaar.jpg",
+				"video": "//www.youtube.com/embed/nuRgHbTU9pk"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-0.1085508, 51.5194]
+		},
+		"properties": {
+			"name": "Open Droplet",
+			"link": "open-droplet",
+			"type": "case_studies",
+			"category": "finite",
+			"location": "",
+			"date_established": "",
+			"template": "partials/casestudies/open-droplet.html",
+			"people": "iilab",
+			"description_short": "Open Droplet is an open source, open hardware water measurement sensor that is networked and easy to use.",
+			"website": "http://opendroplet.org/",
+			"website_title": "opendroplet.org",
+			"media": {
+				"thumb": "open_droplet.jpg",
+				"video": "//www.youtube.com/embed/ARWKBdljrIg"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [13.4552919, 52.4938]
+		},
+		"properties": {
+			"name": "Open Oil Data Framework",
+			"link": "open-oil-data-framework",
+			"type": "case_studies",
+			"category": "finite",
+			"location": "Berlin, Germany",
+			"date_established": "",
+			"template": "partials/casestudies/open-oil.html",
+			"people": "iilab",
+			"description_short": "OpenOil believes that oil and gas production can benefit the citizens of producing countries more effectively.",
+			"website": "https://data.openoil.net/",
+			"website_title": "data.openoil.net",
+			"media": {
+				"thumb": "open_oil.jpg",
+				"video": "//www.youtube.com/embed/29RQWlalFfs"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-104.8551114, 39.7643]
+		},
+		"properties": {
+			"name": "Open Source Beehives",
+			"link": "open-source-beehives",
+			"type": "case_studies",
+			"category": "finite",
+			"location": "Colorado, U.S.A.",
+			"date_established": "",
+			"template": "partials/casestudies/open-source-beehives.html",
+			"people": "",
+			"description_short": "The Open Source Beehives project is a network of citizen scientists tracking bee decline.",
+			"website": "http://www.opensourcebeehives.net/",
+			"website_title": "opensourcebeehives.net",
+			"media": {
+				"thumb": "open_source_beehives.jpg",
+				"video": "//player.vimeo.com/video/79178831"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-94.3757042, 39.8616]
+		},
+		"properties": {
+			"name": "Open Source Ecology",
+			"link": "open-source-ecology",
+			"type": "case_studies",
+			"category": "infrastructure",
+			"location": "Missouri, U.S.A.",
+			"date_established": "2003",
+			"template": "partials/casestudies/open-source-ecology.html",
+			"people": "Marcin Jakubowski",
+			"description_short": "The mission of Open Source Ecology (OSE) is to create the open source economy. An open source, libre economy is an efficient economy which increases innovation by open collaboration.",
+			"website": "http://opensourceecology.org/",
+			"website_title": "opensourceecology.org",
+			"media": {
+				"thumb": "open_source_ecology.jpg",
+				"video": "//player.vimeo.com/video/58165438"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-71.11666, 42.377]
+		},
+		"properties": {
+			"name": "RoboBees",
+			"link": "robobees",
+			"type": "case_studies",
+			"category": "despair",
+			"location": "Boston, U.S.A.",
+			"date_established": "2009",
+			"template": "partials/casestudies/robobees.html",
+			"people": "Robert Wood, Gu-Yeon Wei, Radhika Nagpal, Greg Morrisett, Joseph Ayers, David Brooks, Stacey Combes, L. Mahadevan, Shiram Ramanathan, Todd Zickler",
+			"description_short" : "The RoboBee is a tiny robot capable of tethered flight, developed by a research robotics team at Harvard University.",
+			"website": "http://robobees.seas.harvard.edu/",
+			"website_title": "robobees.seas.harvard.edu",
+			"media": {
+				"thumb": "robobees.jpg",
+				"video": "//www.youtube.com/embed/hgiBl-C7cUU"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-0.1218253, 51.5206]
+		},
+		"properties": {
+			"name": "Sea Shepherd",
+			"link": "sea-shepherd",
+			"type": "case_studies",
+			"category": "finite",
+			"location": "London",
+			"date_established": "1977",
+			"template": "partials/casestudies/sea-shepherd.html",
+			"people": "Captain Paul Watson, President Roger Payne, Vice President Ethan Wolf, Secretary/Treasurer Ann Prezyna, Lani Blazier, Robert Wintner",
+			"description_short": "Sea Shepherd uses innovative direct-action tactics to investigate, document, and take action when necessary to expose and confront illegal activities on the high seas.",
+			"website": "http://www.seashepherd.org/",
+			"website_title": "seashepherd.org",
+			"media": {
+				"thumb": "sea_shepherd.jpg",
+				"video": "//www.youtube.com/embed/G-gn6GNJ1dk"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-77.0044143, 38.9673]
+		},
+		"properties": {
+			"name": "STAR-TIDES",
+			"link": "star-tides",
+			"type": "case_studies",
+			"category": "humanitarian",
+			"location": "Washington, U.S.A.",
+			"date_established": "2013",
+			"template": "partials/casestudies/star-tides.html",
+			"people": "Amy Gorman, Samuel Bendett, Dr. Linton Wells II, Nelly Mobula, LouElin Dwyer, David Becker, Andrew Mascelli",
+			"description_short": "Sharing To Accelerate Research - Transformative Innovation for Development and Emergency Support",
+			"website": "http://star-tides.net/",
+			"website_title": "star-tides.net",
+			"media": {
+				"thumb": "star_tides.jpg",
+				"video": "//www.youtube.com/embed/vOwlCm4Z0qg"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-0.221571, 51.5069]
+		},
+		"properties": {
+			"name": "Tesla Motors",
+			"link": "tesla-motors",
+			"type": "case_studies",
+			"category": "infrastructure",
+			"location": "U.S.A.",
+			"date_established": "2003",
+			"template": "partials/casestudies/tesla-motors.html",
+			"people": "A group of Silicon Valley engineers and more than 6000 employees",
+			"description_short": "Tesla Motors, Inc. is an American company that designs, manufactures, and sells electric cars and electric vehicle powertrain components.",
+			"website": "http://www.teslamotors.com/",
+			"website_title": "teslamotors.com",
+			"media": {
+				"thumb": "tesla_motors.jpg",
+				"video": "//www.youtube.com/embed/i7J-tlrkVEE"
+			}
+		}
+	}
+]

@@ -1,0 +1,690 @@
+[
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [140.4747282, 37.7608337]
+		},
+		"properties" : {
+			"name" : "Fukushima",
+			"type" : "extinction_sites",
+			"location" : "Okuma, Fukushima, Japan",
+			"description_short" : "The Fukushima Daiichi nuclear disaster was a nuclear disaster at the Fukushima I Nuclear Power Plant on 11 March 2011, resulting in a meltdown of three of the plant's six nuclear reactors.",
+			"date_established" : "2011",
+			"link1_title" : "Wikipedia on Fukushima",
+			"link1_url" : "http://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-89.4284093, 21.322137]
+		},
+		"properties" : {
+			"name" : "Chicxulub crater",
+			"type" : "extinction_sites",
+			"location" : "Mexico",
+			"description_short" : "Yucatán Peninsula, Mexico, the residue of the largest confirmed impact on Earth. The asteroid that caused it is calculated to have been at least 6 miles in diameter, causing a crater 12 miles deep. The date of the impact coincides with the transition between the Cretaceous and Paleogene periods in Earth's history, and is believed to have caused the mass extinction of the dinosaurs. A future Asteroid impact is seen as the most likely event to cause the extinction of Homo sapiens.",
+			"link1_url" : "http://en.wikipedia.org/wiki/Chicxulub_crater",
+			"attribution" : "David Blandy"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [90.344352, 23.6943117]
+		},
+		"properties" : {
+			"name" : "Smallpox ",
+			"type" : "extinction_sites",
+			"location" : "Bangladesh",
+			"description_short" : "Two-year old Rahima Banu was the last person infected with naturally occurring Variola major, in 1975.",
+			"people" : "UBERMORGEN",
+			"link1_url" : "http://en.wikipedia.org/wiki/Smallpox",
+			"attribution" : "UBERMORGEN"
+			}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [103.789784, 1.295461]
+		},
+		"properties" : {
+			"name" : "Equinix Singapore Data Centers SG1, SG2, SG3",
+			"type" : "extinction_sites",
+			"location" : "Singapore",
+			"description_short" : "In the near future around 2027, a malicious virus will destroy the global email-system and render SMTP useless.",
+			"date_established" : "2027",
+			"link1_url" : "http://www.equinix.com/locations/singapore-colocation/singapore-data-center",
+			"attribution" : "UBERMORGEN"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [76.9345194, 66.0653057]
+		},
+		"properties" : {
+			"name" : "Yamal Peninsula",
+			"type" : "extinction_sites",
+			"location" : "Russia",
+			"description_short" : "The site of one of the first methane sinkhole explosions in the Russian tundra, these massive holes were sinks for methane deposits and provide a vast, physical indicator of the threat to the climate contained in the methane deposits of the warming tundra.",
+			"link1_url" : "http://en.wikipedia.org/wiki/Yamal_Peninsula",
+			"attribution" : "Tobias Revell"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [30.3350986, 59.9342802]
+		},
+		"properties" : {
+			"name" : "Pavlovsk Experimental Station",
+			"type" : "extinction_sites",
+			"location" : "St. Petersburg, Russia",
+			"description_short" : "Established in 1926 by agricultural scientist Nikolai Vavilov, Pavlovsk Experimental Station contains an extensive collection of more than 5,000 varieties of fruits and berries, including more than 100 varieties each of gooseberries, raspberries and cherries, and more than 1,000 varieties of strawberry. More than 90% of the collection is found in no other research collection or gene bank.",
+			"link1_url" : "http://en.wikipedia.org/wiki/Pavlovsk_Experimental_Station",
+			"attribution": "Benjamin Bratton"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [106.0656366, 41.8925672]
+		},
+		"properties" : {
+			"name" : "Como Bluff",
+			"type" : "extinction_sites",
+			"location" : "Wyoming, USA",
+			"description_short" : "Como Bluff is a long ridge extending east-west, located between the towns of Rock River and Medicine Bow, Wyoming. The ridge is an anticline, formed as a result of compressional geological folding.",
+			"link1_url" : "http://en.wikipedia.org/wiki/Como_Bluff",
+			"attribution" : "Anna Zett"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [20.5203522, 52.0727004]
+		},
+		"properties" : {
+			"name" : "Jaktor&#211;w",
+			"type" : "extinction_sites",
+			"location" : "Poland",
+			"description_short" : "Site of the first recorded extinction in the wild. At a time when the aurochs, the ancestor of wild cattle, had all but disappeared from its former range in Europe, Asia, and North Africa, a small herd persisted under royal protection in the Jaktor&#211;w Forest in Mazovia in the Kingdom of Poland.",
+			"description_long" : "Inspection reports document the number of animals beginning in 1564, when 38 were recorded. By 1602 only four remained, their numbers reduced by habitat degradation (in particular illegal logging and wood collection), competition from domestic cattle and pigs, disease, and cold winters. The last bull died in 1620. A single horn from this animal was set in gold and presented to King Zygmunt III. It is now in the collection of the Royal Armoury in Stockholm, Sweden. According to the Inspection Report of 1630, the very last aurochs, a cow, died in 1627, at the estimated age of 26 years. While the aurochs is now extinct in the wild, domestic breeds of cattle have become the most prevalent large mammal on earth.",
+			"link1_url" : "http://en.wikipedia.org/wiki/Jaktor%C3%B3w",
+			"attribution" : "Michael Wang"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [13.394147, 52.516616]
+		},
+		"properties" : {
+			"name" : "Bebelplatz, Berlin (Nazi book burnings)",
+			"type" : "extinction_sites",
+			"location" : "Berlin, Germany",
+			"description_short" : "The Bebelplatz is known as the site of one of the infamous Nazi book burning ceremonies held in the evening of 10 May 1933 in many German university cities.",
+			"date_established": "1933",
+			"link1_url" : "http://en.wikipedia.org/wiki/Nazi_book_burnings"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [104.195397, 35.86166]
+		},
+		"properties" : {
+			"name" : "Black Death",
+			"type" : "extinction_sites",
+			"location" : "China",
+			"description_short" : "It is believed by many that the disease started in China, and that merchant ships transported it west, to Sicily. It was carried by fleas that were living on rats. Once in Italy, it soon spread throughout the rest of Europe.",
+			"category_specific" : "Disease",
+			"link1_url" : "http://en.wikipedia.org/wiki/Black_Death"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-109.4271188, -27.1552079]
+		},
+		"properties" : {
+			"name" : "Easter Island",
+			"type" : "extinction_sites",
+			"location" : "Easter Island",
+			"description_short" : "Easter Island is a Polynesian island in the southeastern Pacific Ocean, at the southeasternmost point of the Polynesian Triangle. Easter Island is famous for its 887 extant monumental statues, called moai, created by the early Rapa Nui people",
+			"category_specific" : "Ancient Civilization",
+			"link1_url" : "http://en.wikipedia.org/wiki/Easter_Island"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-95.37182, 29.75554]
+		},
+		"properties" : {
+			"name" : "Enron",
+			"type" : "extinction_sites",
+			"location" : "U.S.A",
+			"description_short" : "Enron Corporation was an American energy, commodities, and services company based in Houston. Enron had revenues of $111 billion in 2000 before its massive accounting fraud came to light. Its 2001 bankruptcy is the largest in U.S. history.",
+			"category_specific" : "Business",
+			"link1_url" : "http://en.wikipedia.org/wiki/Enron"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [107.730895, 29.8635]
+		},
+		"properties" : {
+			"name" : "Fengdu",
+			"type" : "extinction_sites",
+			"location" : "China",
+			"description_short" : "In Taoist tradition, Fengdu has long been considered a portal to hell. The Fengdu Ghost City is a tourist attraction modelled after Diyu, the concept of hell elaborated in Chinese mythology and Buddhism. It was built over 1,800 years ago.",
+			"link1_url" : "http://en.wikipedia.org/wiki/Fengdu_County"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [30.934385, -20.269237]
+		},
+		"properties" : {
+			"name" : "Great Zimbabwe",
+			"type" : "extinction_sites",
+			"location" : "Zimbabwe",
+			"description_short" : "Great Zimbabwe is a ruined city in the southeastern hills of Zimbabwe near Lake Mutirikwe and the town of Masvingo. It was the capital of the Kingdom of Zimbabwe during the country's Late Iron Age.",
+			"category_specific" : "Ancient Civilization",
+			"link1_url" : "http://en.wikipedia.org/wiki/Great_Zimbabwe"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [132.4552927, 34.3852029]
+		},
+		"properties" : {
+			"name" : "Hiroshima",
+			"type" : "extinction_sites",
+			"location" : "Japan",
+			"description_short" : "Hiroshima is the capital of Hiroshima Prefecture, Japan. The nuclear bomb 'Little Boy' was dropped on Hiroshima by an American bomber in 1945, directly killing an estimated 80,000 people.",
+			"category_specific" : "Human Atrocity",
+			"link1_url" : "http://en.wikipedia.org/wiki/Hiroshima"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-4.2438362, 40.2896914]
+		},
+		"properties" : {
+			"name" : "Iberian Peninsula (Pyrenean Ibex)",
+			"type" : "extinction_sites",
+			"location" : "Spain",
+			"description_short" : "The Pyrenean ibex, a form of wild mountain goat, was officially declared extinct in 2000 when the last-known animal of its kind was found dead in northern Spain.",
+			"category_specific" : "Animal",
+			"link1_url" : "http://en.wikipedia.org/wiki/Pyrenean_ibex"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+					"type" : "Point",
+					"coordinates" : [37.906193, -0.023559]
+			},
+		"properties" : {
+			"name" : "Kenya (Rinderpest)",
+			"type" : "extinction_sites",
+			"location" : "Kenya",
+			"description_short" : "Rinderpest was an infectious viral disease of cattle. In June 2011, following a global eradication campaign, the United Nations Food and Agriculture Organization announced the global eradication of rinderpest. The last confirmed case of rinderpest was reported in Kenya in 2001.",
+			"category_specific" : "Disease",
+			"link1_url" : "http://en.wikipedia.org/wiki/Rinderpest"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-18.264346, 64.0592031]
+		},
+		"properties" : {
+			"name" : "Laki Iceland",
+			"type" : "extinction_sites",
+			"location" : "Iceland",
+			"description_short" : "This volcanic system erupted over an eight-month period between 1783 and 1784. More than 50% of Iceland's livestock population was destroyed, leading to a famine killing approximately 25% of the island's human population. The eruption caused a drop in global temperatures and has been estimated to have killed over six million people globally.",
+			"category_specific" : "Natural disaster",
+			"link1_url" : "http://en.wikipedia.org/wiki/Laki"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+				"type" : "Point",
+				"coordinates" : [173.1316667, 52.8005556]
+		},
+		"properties" : {
+			"name" : "Near Islands (Steller's sea cow)",
+			"type" : "extinction_sites",
+			"location" : "Near Islands, Alaska",
+			"description_short" : "The Steller's sea cow was a large, herbivorous marine mammal. The species was quickly wiped out by the sailors, seal hunters, and fur traders",
+			"category_specific" : "Animal",
+			"link1_url" : "http://en.wikipedia.org/wiki/Steller's_sea_cow"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [14.4989344, 40.7461572]
+		},
+		"properties" : {
+			"name" : "Pompeii",
+			"type" : "extinction_sites",
+			"location" : "Pompeii, Italy",
+			"description_short" : "The city of Pompeii was an ancient Roman town-city near modern Naples, in the Italian region of Campania. It was mostly destroyed and buried under 4-6 metres of ash and pumice in the eruption of Mount Vesuvius in 79 AD.",
+			"category_specific" : "Ancient Civilization",
+			"link1_url" : "http://en.wikipedia.org/wiki/Pompeii"
+		}
+	},
+	{ "type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [46.199616, 5.152149]
+		},
+		"properties" : {
+			"name" : "Somalia (Smallpox)",
+			"type" : "extinction_sites",
+			"location" : "Somalia",
+			"description_short" : "After vaccination campaigns throughout the 19th and 20th centuries, the WHO certified the eradication of smallpox in 1979. The last known natural case was in Somalia in 1977.",
+			"category_specific" : "Disease",
+			"link1_url" : "http://en.wikipedia.org/wiki/Smallpox"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-1.826216, 51.178882]
+		},
+		"properties" : {
+			"name" : "Stonehenge",
+			"type" : "extinction_sites",
+			"location" : "Amesbury, Wiltshire, UK",
+			"description_short" : "Stonehenge is a prehistoric monument located in Wiltshire, England, about 2 miles west of Amesbury and 8 miles north of Salisbury.",
+			"category_specific" : "Ancient Civilization",
+			"link1_url" : "http://en.wikipedia.org/wiki/Stonehenge"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.232671,44.957101]
+		},
+		"properties": {
+			"name": "Minnesota Anechoic Chamber",
+			"description_short": "An anechoic chamber is a room designed to completely absorb reflections of either sound or electromagnetic waves. It is so quiet that the longest anybody has been able to bear it is 45 minutes.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [173.1316667,52.8005556]
+		},
+		"properties": {
+			"name": "Near Islands (Steller's sea cow)",
+			"description_short": "The Steller's sea cow was a large, herbivorous marine mammal. The species was quickly wiped out by the sailors, seal hunters, and fur traders",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-68.9856,12.1766]
+		},
+		"properties": {
+			"name": "Netherlands Antilles",
+			"description_short": "The Netherlands Antilles, an autonomous Caribbean country within the Kingdom of the Netherlands, was dissolved on 10 October 2010.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.0715323,29.9510658]
+		},
+		"properties": {
+			"name": "New Orleans (Hurricane Katrina)",
+			"description_short": "Hurricane Katrina was the deadliest and most destructive Atlantic tropical cyclone of the 2005 Atlantic hurricane season. It is the costliest natural disaster, as well as one of the five deadliest hurricanes, in the history of the United States.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.168885, 52.238884]
+		},
+		"properties": {
+			"name": "NPO Netherlands",
+			"description_short": "Netherlands were the first country to complete the digital switchover from Analog to Digital TV in 2006, making analogue television redundant.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [132.9921762,34.3113285]
+		},
+		"properties": {
+			"name": "&#332;kunoshima",
+			"description_short": "Rabbits used in testing were supposedly euthanized when the factory shut down after the war. The hundreds of rabbits found on the island today are thought to be descendants of eight rabbits released by schoolchildren in 1971.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.027411,19.201983]
+		},
+		"properties": {
+			"name": "O&#347;wi&#281;cim Auschwitz",
+			"description_short": "Auschwitz concentration camp was a network of German Nazi concentration camps and extermination camps built and operated by the Third Reich in Polish areas annexed by Nazi Germany during World War II.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [35.442581,30.325173]
+		},
+		"properties": {
+			"name": "Petra",
+			"description_short": "Petra is a historical and archaeological city in the southern Jordanian governorate of Ma'an that is famous for its rock-cut architecture and water conduit system.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-109.806792,34.90999]
+		},
+		"properties": {
+			"name": "Petrified Forest National Park",
+			"description_short": "Petrified Forest National Park is a United States national park in Arizona. Petrified wood (from the Greek root petro meaning rock' or 'stone'; literally 'wood turned into stone') is the name given to a special type of fossilized remains of terrestrial vegetation. It is the result of a tree or tree-like plants having completely transitioned to stone by the process of permineralization.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.9890837,41.4551278]
+		},
+		"properties": {
+			"name": "Pollepel Island",
+			"description_short": "Pollepel Island is an island in the Hudson River. The principal feature on the island is Bannermans' Castle, an abandoned military surplus warehouse",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [71.1923805,22.258652]
+		},
+		"properties": {
+			"name": "Prahlad Jani",
+			"description_short": "Prahlad Jani, also known as 'Mataji', is an Indian sadhu. He claims to have lived without food and water since 1940.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.075846,38.912011]
+		},
+		"properties": {
+			"name": "Roland Doe",
+			"description_short": "In the late 1940s, priests of the Catholic Church performed a series of exorcisms on an anonymous boy, documented under the pseudonym 'Roland Doe' or 'Robbie Mannheim'. The boy, born circa 1936, was the supposed victim of demonic possession.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.6927684, 10.7650442]
+		},
+		"properties": {
+			"name": "Saigon road (Th&#237;ch Qu&aring;ng &#x110;&#x1EE9;c)",
+			"description_short": "Th&#237;ch Qu&aring;ng &#x110;&#x1EE9;c, was a Vietnamese Mahayana Buddhist monk who burned himself to death at a busy Saigon road intersection on 11 June 1963. He was protesting the persecution of Buddhists by the South Vietnamese government.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.8636315,52.4774376]
+		},
+		"properties": {
+			"name": "Sir Francis Galton (Presbycusis)",
+			"description_short": "Presbycusis or age-related hearing loss, is the cumulative effect of aging on hearing. It is a progressive bilateral symmetrical age-related sensorineural hearing loss. The hearing loss is most marked at higher frequencies.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.334506,37.381096]
+		},
+		"properties": {
+			"name": "Smoking",
+			"description_short": "Listed as the second-greatest cause of death worldwide, smoking results in 10 percent of deaths around the globe, according to the World Health Organization. This adds up to roughly 5 million people annually.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-2.9835711,53.4051532]
+		},
+		"properties": {
+			"name": "The F. W. Woolworth Company",
+			"description_short": "The F. W. Woolworth Company was a retail company that was one of the original pioneers, and arguably the most successful American and international five-and-dime stores, setting trends and creating the modern retail model which stores follow worldwide today.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.337293,48.848271]
+		},
+		"properties": {
+			"name": "Third Law of Thermodynamics",
+			"description_short": "The Third Law of Thermodynamics states that absolute zero cannot be attained by any procedure in a finite number of steps. Absolute zero can be approached arbitrarily closely, but it can never be reached.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-175.198242,-21.178986]
+		},
+		"properties": {
+			"name": "Tonga (Tongan religion)",
+			"description_short": "Though it is no longer practiced today, Tonga's ancient religion was practiced for over 2000 years. Missionaries arrived and persuaded King George Tupou I to convert to Christianity.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.2398625,36.1349928]
+		},
+		"properties": {
+			"name": "Tuba City (Dino Tracks)",
+			"description_short": "Tuba City is noted for dinosaur tracks, found about 5 miles (8 km) west.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-89.7683833,20.3599062]
+		},
+		"properties": {
+			"name": "Uxmal",
+			"description_short": "Uxmal is an ancient Maya city of the classical period in present-day Mexico. It is considered one of the most important archaeological sites of Mayan culture.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [32.601411, 25.740164]
+		},
+		"properties": {
+			"name": "Valley of the kings",
+			"description_short": "The Valley of the Kings, is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, tombs were constructed for the Pharaohs and powerful nobles of the New Kingdom.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-62.7999992,-37.1333313]
+		},
+		"properties": {
+			"name": "Villa Epecu&#233;n",
+			"description_short": "Villa Epecu&#233;n was a tourist village that was located in the Buenos Aires Province, Argentina. Now abandoned, its ruins are found on the eastern shore of the Laguna Epecu&#233;n. On 6 November 1985, a seiche caused by a rare weather pattern broke a nearby dam first, then the dike protecting the town.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.282991,51.405077]
+		},
+		"properties": {
+			"name": "Wimbledon F.C.",
+			"description_short": "Wimbledon Football Club was an English professional association football club from Wimbledon, south-west London founded in 1889. Wimbledon dissolved in June 2004.",
+			"type": "extinction_sites"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.223611,5.5475]
+		},
+		"properties": {
+			"name": "Agbogbloshie",
+			"description_short": "As the world's biggest digital dumping ground, the Agbogbloshie dump creates an illusion of extinction for the 50 million tonnes of computers, phones and other unwanted digital products that are shipped there each year in the expectation that they will disappear. But they don't. Instead, they are dismantled by scavengers, who sell any reusable parts, and leave the rest to fail to rot for decades to come, poisoning the eco-system.",
+			"type": "extinction_sites",
+			"attribution": "Alice Rawsthorn"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [46,23]
+		},
+		"properties": {
+			"name": "Oryx leucoryx reintroduction sites",
+			"description_short": "Six reintroduction and recovery sites for the Arabian oryx (Oryx leucoryx) are located in the Arabian Peninsula. The last wild individuals of a once widespread population were extinct by the early 1970s. However, strenuous efforts by diverse groups of people in organisations in and outside the native range have re-established a wild population that now numbers over 1000 individuals across several sites within the original range of the species. In 2011 the species was moved from the Endangered category of IUCN to Vulnerable, a lower threat category. The species is not yet secure, but this serves as an example of reversing the extinction trend for a species.",
+			"type": "extinction_sites",
+			"attribution": "Georgina Mace"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [104.761944,1.206111]
+		},
+		"properties": {
+			"name": "Semakau Landfill",
+			"description_short": "The Semakau Landfill is Singapore's first offshore landfill and now the only remaining landfill in Singapore. Semakau Landfill is filled mainly with ash produced by Singapore's four incineration plants, which incinerate the country's waste, shipped there in a covered barge (to prevent the ash from getting blown into the air) every night. In 1987, the Singapore government, after having acquired the land on both islands from the islanders, set about relocating the islanders to the mainland where they were resettled in the Bukit Merah and Telok Blangah housing estate areas by HDB. One of the oldest residents continued to live on the Pulau Sakeng despite his family having been resettled but he eventually moved out as well in 1991, as the island's jetty fell into a sorry state of disrepair. After which, the Singapore SPCA was tasked to round up the few cats that were left behind after his departure. Subsequently, Pulau Sakeng was subsumed by the land reclamation process of Pulau Semakau and the present day. Semakau landfill receiving station was built directly on top of Pulau Sakeng after that process.",
+			"type": "extinction_sites",
+			"attribution": "Heman Chong"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.75,0.6]
+		},
+		"properties": {
+			"name": "Pinta Island",
+			"description_short": "The last individual of a giant tortoise species the Pinta Island Tortoise died in 2012. For many years he lived on alone, the last of his kind, known as 'Lonesome George.'",
+			"type": "extinction_sites",
+			"attribution": "Richard Fortey"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.276667,27.992222]
+		},
+		"properties": {
+			"name": "Seffner",
+			"description_short": "A man named Jeffrey Bush lived in Seffner, Florida, until one night, lying in his bed, a sinkhole opened exclusively under his bedroom, and he and his bed and his possessions were swallowed by the earth.",
+			"type": "extinction_sites",
+			"attribution": "Ed Atkins"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-2.529,53.548]
+		},
+		"properties": {
+			"name": "Westhoughton",
+			"description_short": "The small town of Westhoughton has the highest number of individual Coach Building companies in the world, which are dedicated to making hearses and limousines for funerals.",
+			"type": "extinction_sites",
+			"attribution": "Hetain Patel",
+			"location": "North West England, UK"
+		}
+	}
+]
+

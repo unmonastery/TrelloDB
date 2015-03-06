@@ -1,0 +1,248 @@
+[
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [60.4620976, 65.2481624]
+		},
+		"properties" : {
+			"name" : "Arctic Cables",
+			"type" : "volatility_storms",
+			"location" : "Arctic Ocean",
+			"description_short" : "'The best investment opportunities in the last 12,000 years', is how investors are describing the Arctic region. For financial markets the Arctic is the Next Big Thing: a new frontier of imagination and investment opportunities.",
+			"description_long" : "'The best investment opportunities in the last 12,000 years', is how investors are describing the Arctic region. For financial markets the Arctic is the Next Big Thing: a new frontier of imagination and investment opportunities. Melting ice will make massive gas and oil fields in the Arctic sea more accessible, will make the now frozen tundras suitable for agriculture and valuable minerals of which the Arctic is rich – such as sink, iron, gold and nickel – more easy to mine. Investing in the Arctic brings along massive financial and ecological risks, but financial markets thrive on risks. Currently investors are trying to get a foothold by making Arctic land deals and planning new infrastructures. Participating in the Arctic chess game will make a lot of people rich.",
+			"media" : {
+				"image": "Volatility-Storms_1.gif"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-42.604303,71.706936]
+		},
+		"properties" : {
+			"name" : "Arctic Land",
+			"type" : "volatility_storms",
+			"location" : "Greenland",
+			"description_short" : "The future Arctic is described as the discovery of a new continent with untapped resources, exotic ecosystems and new trade lanes. Global warming will literally open up faster routes for trading algorithms in the Arctic.",
+			"description_long" : "The future Arctic is described as the discovery of a new continent with untapped resources, exotic ecosystems and new trade lanes. Global warming will literally open up faster routes for trading algorithms in the Arctic. The melting ice will make it possible to lay submarine cables onto the Arctic sea floor. These Arctic submarine cables will be solely constructed for increasing speed. In the near future should shortcut the data connection between the financial markets of London and Tokyo that are now linked via the Middle-East and Pacific. Latency is expected to drop substantially, data traffic is expected to be 30% faster. Less ice means more – and faster – money.",
+			"media" : {
+				"image": "Volatility-Storms_2.gif"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-155.5827818,19.8967662]
+		},
+		"properties" : {
+			"name" : "Catastrophe Bonds",
+			"type" : "volatility_storms",
+			"location" : "Hawaii",
+			"description_short" : "On October 18th 2014 Hurricane Ana is expected to hit Hawaii. When it does is can create big profits and losses in the financial markets. Catastrophe bonds turn floods, volcanic eruptions, hurricanes, earthquakes, tsunamis into financial products. ",
+			"description_long" : "On October 18th 2014 Hurricane Ana is expected to hit Hawaii. When it does is can create big profits and losses in the financial markets. Catastrophe bonds turn floods, volcanic eruptions, hurricanes, earthquakes, tsunamis into financial products. Financial risks from natural disasters are highly concentrated in a few places. With a rising weather volatility and number of natural disasters, insurers and governments increasingly have problems covering big catastrophic risks. Instead they sell catastrophe bonds to spread the risk. The buyer of this bond invest his money in a catastrophe insurance and loses it all when a specified natural disaster happens within a predetermined number of years. This way the seller ensure himself against extreme losses and pays the buyer a high interest rate. Spreading risks in broader markets via cat-bonds is like distributing an earthquake of the highest level across the planet so no one will feel it. Cat-bonds deal with rare events and there’s a great uncertainty involved, yet when a natural disaster hits it hits hard. These moments of disruption are perfect for investors: taking very high risks can return a lot of profits when the coin fall on the right side.",
+			"media" : {
+				"image": "Volatility-Storms_3.gif"
+			}
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-41.7007272,-12.579738]
+		},
+		"properties" : {
+			"name" : "Cyanopsitta spixii (Spix's macaw)",
+			"common": "Spix’s macaw",
+			"type" : "extinct_wild",
+			"location" : "Bahia State, Brazil",
+			"description_short" : "Extirpated by habitat destruction and capture for the illegal pet trade. The only remaining wild bird was last seen near the Rio São Francisco in Bahia state, Brazil, in 2000.  Approximately 80 birds persist in captivity, the majority of which have been acquired by H.E. Sheikh Saud bin Muhammed Al Thani’s Al Wabra Wildlife Preservation in Qatar.",
+			"thumbnail" : "Cyanopsitta_spixii.jpg",
+			"credit" : "Loro Parque Fundación",
+			"date_established" : "2000",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-82.3511582, 31.94066]
+		},
+		"properties" : {
+			"name" : "Franklinia alatamaha (Franklin tree)",
+			"common" : "Franklin tree",
+			"type" : "extinct_wild",
+			"location" : "Altamaha River, McIntosh County, Georgia, United States",
+			"description_short" : "Succumbed to over-collection for the nursery trade and susceptibility to a fungal infection introduced with cotton cultivation. The last recorded sighting in the wild was in McIntosh County, Georgia, in the United States in 1803.  All plants currently in cultivation are descended from seed collected in the late 18th century by the botanist William Bartram.",
+			"thumbnail" : "Franklinia_alatamaha.jpg",
+			"credit" : "Smithsonian Institution",
+			"date_established" : "1803",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-151.4227703,-16.8193639]
+		},
+		"properties" : {
+			"name" : "Partula hebe (Polynesian tree snail)",
+			"common" : "Polynesian tree snail",
+			"type" : "extinct_wild",
+			"location" : "Raiatea, Society Islands",
+			"description_short" : "Population depleted by the carnivorous Florida rosy wolfsnail, intentionally introduced in the late 1980s to control the spread of invasive giant African land snails.  Partula hebe was last seen in Raiatea, Society Islands, in 1992. The species, along with ten other Partula species designated extinct in the wild, is maintained in captivity by the International Partula Snail Conservation Programme, coordinated by the Zoological Society of London in collaboration with the French Polynesian Government.",
+			"thumbnail" : "Partula_hebe.jpg",
+			"credit" : "Oli Scarff, Getty Images"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [121.554078,24.904651]
+		},
+		"properties" : {
+			"name" : "Rhododendron kanehirai",
+			"type" : "extinct_wild",
+			"location" : "Feitsui Reservoir, Taiwan",
+			"description_short" : "Restricted range was flooded with the construction of the Feitsui Dam. It was last observed in its natural habitat near Lu-zi Lake, Taiwan, in 1984. The species remains in cultivation as an ornamental plant.",
+			"thumbnail" : "Rhododendron_kanehirai.jpg",
+			"credit" : "Cheng-Tao Lin",
+			"date_established" : "1984",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+				"type" : "Point",
+				"coordinates" : [29.873888,-1.940278]
+		},
+		"properties" : {
+			"name" : "Nymphaea thermarum (Pygmy Rwandan water lily)",
+			"common" : "Pygmy Rwandan water lily",
+			"type" : "extinct_wild",
+			"location" : "Mashyuza, Rwanda",
+			"description_short" : "Disappeared when the freshwater hot spring that maintained the species’ sole habitat of 25 degree centigrade mud was diverted for agriculture. It was last seen in 2008 in Mashyuza, Rwanda. The species—the world’s smallest waterlily—is cultivated at the Royal Botanic Gardens, Kew, in the United Kingdom and in the Bonn Botanic Gardens, Germany.",
+			"thumbnail" : "Nymphaea_thermarum.jpg",
+			"credit" : "Michael Zacher",
+			"date_established" : "2008",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [76.5833333,10.75]
+		},
+		"properties" : {
+			"name" : "Euphorbia mayurnathanii",
+			"type" : "extinct_wild",
+			"location" : "Palakkad Gap, Kerala, India",
+			"description_short" : "Known from three individuals identified in the Palghat Gap, India, in 1940.  Searches have failed to locate the species again, but it persists in cultivation.",
+			"thumbnail" : "Euphorbia_mayurnathanii.jpg",
+			"credit" : "H. Zell",
+			"date_established" : "1940",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-110.9815097,18.7928152]
+		},
+		"properties" : {
+			"name" : "Zenaida graysoni (Socorro dove)",
+			"common" : "Socorro dove",
+			"type" : "extinct_wild",
+			"location" : "Socorro Island, Mexico",
+			"description_short" : "Wild population decimated by habitat degradation and the introduction of feral cats in 1970. The species was last sighted in its natural habitat on Socorro Island, Mexico in 1972.  Breeding populations totaling approximately 100 birds are maintained in Europe and the United States.",
+			"thumbnail" : "Zenaida_graysoni.jpg",
+			"credit" : "The Royal Zoological Society of Scotland",
+			"date_established" : "1972",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [15.446105,18.7350005]
+		},
+		"properties" : {
+			"name" : "Oryx dammah (Scimitar oryx)",
+			"common" : "Scimitar oryx",
+			"type" : "extinct_wild",
+			"location" : "Ouadi Rimé-Ouadi Achim Faunal reserve, Chad",
+			"description_short" : "Last verified sightings in the wild in the Ouadi Rimé-Ouadi Achim Faunal Reserve in Chad in 1996.  Several thousand captive animals are kept in private collections in the United Arab Emirates and in commercial game reserves in the United States.",
+			"thumbnail" : "Oryx_dammah.jpg",
+			"credit" : "Adam Fagen",
+			"date_established" : "1996",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-16.6291304,28.2915637]
+		},
+		"properties" : {
+			"name" : "Lotus berthelotii (Parrot’s beak)",
+			"common" : "Parrot’s beak",
+			"type" : "extinct_wild",
+			"location" : "Tenerife, Canary Islands, Spain",
+			"description_short" : "Last verfied in the wild on Tenerife in the Canary Islands, Spain in 1884.  It remains widely cultivated as an ornamental plant.",
+			"thumbnail" : "Lotus_berthelotii.jpg",
+			"credit" : "Jeanne S.E. Dericks-Tan",
+			"date_established" : "1884",
+			"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [30.8958242, -28.5305539]
+		},
+		"properties" : {
+			"name" : "Encephalartos Woodii (Wood’s cycad)",
+			"common" : "Wood’s cycad",
+			"type" : "extinct_wild",
+			"location" : "oNgoye Forest, KwaZulu-Natal, South Africa",
+			"description_short" : "Known from four stems belonging to a single plant first discovered to science in 1895. All remaining stems, as well as the trunk, had been removed from their original location in the Ngoya Forest, South Africa by 1916. Clones of the original specimens are cultivated in botanical collections in South Africa, Europe, and the United States.",
+			"thumbnail" : "Encephalartos_Woodii.jpg",
+			"credit" : "Royal Botanic Gardens, Kew",
+			"date_established" : "1916",
+		"category" : "despair"
+		}
+	},
+	{
+		"type" : "Feature",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [-87.3542114,30.0991503]
+		},
+		"properties" : {
+			"name" : "Deephorizon, UBERMORGEN",
+			"type" : "case_studies",
+			"location" : "Gulf of Mexico",
+			"description_short" : "The video shows a tracking shot of aerial images of BP’s Deepwater Horizon oil-spill in the Gulf of Mexico, beautifully wrapped around a sphere.",
+			"description_long" : "The video shows a tracking shot of aerial images of BP’s Deepwater Horizon oil-spill in the Gulf of Mexico, beautifully wrapped around a sphere. The source images are from the massive oil-painting on an 80.000 square-mile canvas with over 800 million liters of oil. This piece cements the position of oil-painting as the supreme discipline of art, but at the same time gives evidence of the delicate and endangered position of painting if the discipline refuses to radically embrace technology.",
+			"video" : "//player.vimeo.com/video/12264646",
+			"date_established" : "2010",
+			"category" : "finite",
+			"website_title" : "deeeeeeephorizon.com",
+			"website" : "http://www.deeeeeeephorizon.com/"
+		}
+	}
+]

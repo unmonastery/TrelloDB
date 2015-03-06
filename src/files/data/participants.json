@@ -1,0 +1,182 @@
+[
+	{
+		"project": {
+			"name": "Anna Zett",
+			"title": "This Unwieldy Object",
+			"link": "anna-zett",
+			"website": "http://annazett.net/",
+			"template": "partials/participants/anna-zett.html",
+			"media": {
+				"thumb": "anna_zett.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "UBERMORGEN",
+			"title": "Ziron, 2014 | Deephorizon, 2010-12",
+			"link": "ubermorgen",
+			"website": "http://ziron.extinct.ly",
+			"template": "partials/participants/ubermorgen.html",
+			"media": {
+				"thumb": "ubermorgen_deepwater.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "David Blandy",
+			"title": "Tutorial: How to make a short video about extinction",
+			"link": "david-blandy",
+			"website": "",
+			"template": "partials/participants/david-blandy.html",
+			"media": {
+				"thumb": "david_blandy.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Femke Herregraven",
+			"title": "Volatility Storms",
+			"link": "femke-herregraven",
+			"bio": "Femke Herregraven's work traverses global finance, information and geopolitics. Works exist online and as installations, video, prints, drawings, and games, often exploring geographies of avoidance and the ways in which financial systems carve out new geographies through spatial organisation. Currently researching high-frequency trading, Herregraven’s ongoing projects include Geographies of Avoidance, addressing the offshore escape of financial regulation and The All Infrared Line, revolving around the physical backbone of global finance.",
+			"template": "partials/participants/femke-herregraven.html",
+			"website": "",
+			"media": {
+				"thumb": "femke_herregraven.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Folder",
+			"title": "Italian Limes",
+			"link": "folder",
+			"bio": "Italian Limes is a project by Folder (Marco Ferrari, Elisa Pasqual) with Pietro Leoni (interaction design), Delfino Sisto Legnani (photography) and Alessandro Mason (production). Folder is a design and research agency founded by Marco Ferrari and Elisa Pasqual. The studio's activity spans art direction, data visualization, exhibition design, and digital and editorial publishing. Folder mainly works on cultural and research projects at the intersection of technology, information architecture and politics.",
+			"template": "partials/participants/folder.html",			
+			"website": "",
+			"media": {
+				"thumb": "folder.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Julian Oliver",
+			"title": "Last Words: Canonical Literature, Modified for Extinction",
+			"link": "julian-oliver",
+			"bio": "Julian Oliver is a New Zealander, Critical Engineer and artist based in Berlin. His projects and the occasional paper have been presented at many museums, international electronic-art events and conferences, including the Tate Modern, Transmediale, Ars Electronica, FILE and the Japan Media Arts Festival. Julian's work has received several awards, most notably a Golden Nica at Prix Ars Electronica 2011 for the project Newstweek. He has been actively exhibiting worldwide since 1996.",
+			"template": "partials/participants/julian-oliver.html",			
+			"website": "",
+			"media": {
+				"thumb": "julian_oliver.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Kari Altmann",
+			"title": "FLEXIA, 2012 - ongoing",
+			"link": "kari-altmann",
+			"bio": "Kari Altmann is one of the most influential and innovative artists in the currently titled 'post-internet' genre. Her work is focused on ideas of rapid mimicry and mutation in the name of survival and virality. She has done projects for and with Art Dubai, The Goethe Institute, The New Museum, FadetoMind, Dis Magazine, Nero Magazine and many more.",
+			"template": "partials/participants/kari-altmann.html",
+			"website": "",
+			"media": {
+				"thumb": "kari_altmann.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Emily Jones",
+			"title": "(I want you to stay) &#35;homni 2014",
+			"link": "emily-jones",
+			"bio": "Emily Jones (born 1987, London). Enough. Theory. History. Raw Spa, Ramadan Mubarak, take me higher &#35;orientate, What is a human being? Unfortunately, It Was Paradise, LIVESTRONG, AIR. Forests, Oceans, Toxics, Peace. Ṣanʿāʾ. Theotokos. North Atlantic. Arctic Biosphere. The role of the shaman. Pray. [<a href='http://emilyjones.info'>emilyjones.info</a>]",
+			"template": "partials/participants/emily-jones.html",
+			"website": "http://emilyjones.info",
+			"media": {
+				"thumb": "emily_jones.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Jesse Darling",
+			"title": "Despite and Because of Everything",
+			"link": "jesse-darling",
+			"bio": "Jesse Darling is an artist living in London. Their work addresses the human condition and how it is mediated through the structures, narratives and technologies that govern life as we know it, considering the social and physical body as a site where they manifest and become transformed. JD works in sculpture, installation, text and ‘dasein by design’ – where performance and unmediated experience meet. Exhibitions include Private Settings: Art After the Internet (Museum of Modern Art, Warsaw), Preteen Gallery’s It’s been four years since 2010 and Not Long Now at LIMAZULU, London, 2014. JD is represented by Arcadia_Missa.",
+			"template": "partials/participants/jesse-darling.html",
+			"website": "",
+			"media": {
+				"thumb": "jesse_darling.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Alex Mackin Dolan",
+			"title": "2014 NYC People's Climate March Photos",
+			"link": "alex-mackin-dolan",
+			"bio": "Alex Mackin Dolan is an artist living in New York. He co-directs Grand Century and previously co-curated Appendix Project Space. His work, concerning objects influenced by contemporary sources of stress, has been shown at Swiss Institute and Portland Institute for Contemporary Art. Dolan was the first Visual Artist in Residence at Park Avenue Armory’s Under Construction Series (89plus, 2013), and the agnès b. / Tara Oceans Polar Circle Artist in Residence.",
+			"template": "partials/participants/alex-mackin-dolan.html",			
+			"website": "",
+			"media": {
+				"thumb": "alex_mackin_dolan.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Kev Bewersdorf",
+			"title": "FEAR NO EVIL",
+			"subtitle": "Reversing the Flow of Internet Expansion",
+			"link": "kev-bewersdorf",
+			"bio": "<a href='http://ritual.technology'>ritual.technology</a>",
+			"template": "partials/participants/kev-bewersdorf.html",			
+			"website": "http://ritual.technology",
+			"media": {
+				"thumb": "kev_bewersdorf.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Lisa Ma",
+			"title": "How to be a Bioluddite",
+			"link": "lisa-ma",
+			"bio": "Lisa Ma believes in socialising activism rather than idolising perfect futures. Creating 'Farmification' with workers of joystick factories in Shenzhen, Spa experiences at cat ladies’ homes in London and political movements with vegetarians to eat – instead of poison – invasive animals in Belgium, Lisa Ma wants to make activism iterative, innovative and reflective, like a design process. Currently she is starting a movement with the historical community of Luddites to guide our social relationship with biotechnology. Lisa Ma digs out the everyday clashes of values between what we do and what we believe in.",
+			"template": "partials/participants/lisa-ma.html",			
+			"website": "",
+			"media": {
+				"thumb": "lisa_ma.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Michael Wang",
+			"title": "Extinct in the Wild",
+			"link": "michael-wang",
+			"bio": "Michael Wang (Olney, MD, 1981) is an artist based in New York City. He uses systems operating on a global scale to explore species distribution, climate change, and the global economy. His works include “Invasives,” on the controlled release of invasive species, Carbon Copies, an exhibition linking the production of artworks to the release of greenhouse gases, and Rivals, an investment scheme designed to neutralize corporate competition.",
+			"template": "partials/participants/michael-wang.html",			
+			"website": "",
+			"media": {
+				"thumb": "michael_wang.jpg"
+			}
+		}
+	},
+	{
+		"project": {
+			"name": "Tobias Revell",
+			"title": "The Ongoing Collapse",
+			"link": "tobias-revell",
+			"bio": "Tobias Revell is a critical designer, researcher and futurist seeking alternative narratives for technologies and change. He lectures at the Royal College of Art and London College of Communication and is a senior associate at Superflux design studio. He has given talks and exhibited internationally, including at Ars Electronica; the Science Gallery, Dublin; Z33, Hasselt, Belgium; the Milan Design Week and HMKV Dortmund.",
+			"template": "partials/participants/tobias-revell.html",			
+			"website": "http://theongoingcollapse.com",
+			"media": {
+				"thumb": "tobias_revell.jpg"
+			}
+		}
+	}
+]

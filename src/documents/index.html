@@ -1,0 +1,71 @@
+---
+layout: 'default'
+title: 'Home'
+---
+
+
+    <!--<script id="profileTemplate" type="text/template">
+	    <div class="profile">
+	            <div class="info">
+	                <div class="name">
+	                    <%= project.name %>
+	                    <%= project.title %>
+	                    <%= project.bio %>
+
+	                </div>
+	            </div>
+	        </div>
+    </script>-->
+
+
+
+    <div id="profiles"></div>
+	
+	<!-- Create isotope items -->
+    <script id="profileTemplate" type="text/template">
+			<div class="col-sm-4">
+				<div class="caption">
+					<h6>
+						<a data-target="#<%- project.link %>" data-toggle="modal">
+							<%- project.name %>
+						</a>
+					</h6>
+				</div>
+			</div>
+		</div>
+	</script>
+
+
+	<div id="modals"></div>
+
+
+	<!-- Modals -->
+	<script id="participantModalTpl" type="text/template">
+	<div id="<%- project.link %>" class="modal fade">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h1><%- project.title %></h1>
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="col-lg-6 col-lg-offset-3">
+
+							<div>
+								<%- project.template %>
+							</div>
+
+						</div>
+						<div class="col-lg-3 bio">
+							<p><%- project.bio %></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<h1><%- project.name %></h1>
+		</div>
+	</div>
+	</script>
